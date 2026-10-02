@@ -25,7 +25,7 @@ Vercel provides automatic deployments, global edge CDN, and built-in SSL.
    - **Framework Preset**: `Vite`
    - **Build Command**: `npm run build` (or `vite build`)
    - **Output Directory**: `dist`
-   - **Install Command**: `npm install`
+   - **Install Command**: `npm install --legacy-peer-deps` (or standard `npm install` with the `.npmrc` file)
 6. Click **"Deploy"**. Your live URL will be ready in under 60 seconds!
 
 *Note: The included `vercel.json` already handles all SPA client routes and asset caching.*
