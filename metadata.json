@@ -1,0 +1,6 @@
+{
+  "name": "AI Waste Recognition",
+  "description": "AI-powered waste recognition platform helping households and colleges scan, identify, segregate, and recycle waste with instant guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
